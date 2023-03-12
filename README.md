@@ -11,7 +11,7 @@ by "send"
 
 ### positional arguments:
   mode                  either send or receive\
-  host                  host IP address\
+  host                  host (receiver) IP address\
   path                  if mode=send then enter the path where the file is located, else if mode=receive enter the destination path along with file name and extension
 ### optional arguments:
   -h, --help            show this help message and exit\
