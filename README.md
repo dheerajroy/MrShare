@@ -1,5 +1,5 @@
 # MrShare
-## To download run "git clone https://github.com/dheerajroy/MrShare.git"
+### To download run "git clone https://github.com/dheerajroy/MrShare.git"
 ## Description
 A minimalistic software used to transfer files between systems connected to the same network
 ## How to use
